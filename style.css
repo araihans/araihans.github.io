@@ -1,0 +1,19 @@
+html{
+  scroll-behavior: smooth;
+}
+.jumbotron {
+    padding-top: 8rem;
+    padding-bottom: 7rem;
+  }
+  #about {
+    padding-top: 8rem;
+    padding-bottom: 8rem;
+  }
+  #contact{
+    padding-top: 8rem;
+    padding-bottom: 8rem;
+  }
+  footer {
+    padding-top: 3rem;
+  }
+  
